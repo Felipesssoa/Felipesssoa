@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Felipe Pessoa 😉
-
+<p style="font-size: 12px; padding:0px; margin:0px;">Web Designer</p>
 <hr>
 <div style="display: inline_block">
 
@@ -20,4 +20,14 @@
     <img align="center" alt="wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
 </div><hr>
 
+### Meus Projetos
+<div style="display: inline_block">
+
+[![Abopto](https://img.shields.io/website?label=Abopto.com.br&style=for-the-badge&url=https://www.abopto.com.br
+)](https://www.abopto.com.br)
+[![InstitutoVer](https://img.shields.io/website?label=Institutover.net.br&style=for-the-badge&url=https://www.institutover.net.br
+)](https://institutover.net.br)
+[![WdCompany](https://img.shields.io/website?label=WdCompany.com.br&style=for-the-badge&url=https://www.wdcompany.com.br
+)](https://www.wdcompany.com.br)
+</div>
 Técnico em informática apaixonado por tecnologias e programação!
