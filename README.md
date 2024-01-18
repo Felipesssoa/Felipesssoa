@@ -29,5 +29,5 @@
 )](https://institutover.net.br)
 [![WdCompany](https://img.shields.io/website?label=WdCompany.com.br&style=for-the-badge&url=https://www.wdcompany.com.br
 )](https://www.wdcompany.com.br)
-</div><hr style="margin-bottom:10px;">
+</div><hr style="margin-bottom:15px;">
 Técnico em informática apaixonado por tecnologias e programação!
