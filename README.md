@@ -25,9 +25,11 @@
 
 [![Abopto](https://img.shields.io/website?label=Abopto.com.br&style=for-the-badge&url=https://www.abopto.com.br
 )](https://www.abopto.com.br)
+
 [![InstitutoVer](https://img.shields.io/website?label=Institutover.net.br&style=for-the-badge&url=https://www.institutover.net.br
 )](https://institutover.net.br)
+
 [![WdCompany](https://img.shields.io/website?label=WdCompany.com.br&style=for-the-badge&url=https://www.wdcompany.com.br
 )](https://www.wdcompany.com.br)
-</div>
+</div><hr>
 Técnico em informática apaixonado por tecnologias e programação!
