@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Felipe Pessoa 😉
-<p style="font-size: 12px; padding:0px; margin:0px;">Web Designer</p>
+<p style="font-size: 12px; padding:0px; margin:0px;">Desenvolvedor Web</p>
 <hr>
 <div style="display: inline_block">
 
